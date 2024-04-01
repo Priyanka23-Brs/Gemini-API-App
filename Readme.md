@@ -9,4 +9,4 @@
 ##### Purpose:
     Query for something and returns results based on query
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/gemini_ai/teach-you-anything-gemini-ai/)
+#### Check out the live app [here](http://203.193.173.125/buildriseshine/gemini_ai/teach-you-anything-gemini-ai/)
